@@ -1,18 +1,38 @@
-## Getting Started
+# Práctica: Estructuras Dinámicas Lineales
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Datos del Estudiante
+- **Nombre:** [Geovanny Sebastian Pillco Quizhpi]
+- **Curso:** [Grupo 3]
+- **Fecha:** [09/06/2026]
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 1. Implementación de estructuras dinámicas lineales
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** [09/06/2026]
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Descripción:**
+El primer ejercicio consiste en la inversión de una cadena de texto utilizando exclusivamente el comportamiento LIFO (Last-In, First-Out) de una estructura de pila.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Método implementado
+![alt text](image.png)
 
-## Dependency Management
+### Captura de salida en consola
+![alt text](image-1.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Captura del código de implementación del ejercicio 1
+![alt text](image-3.png)
+
+
+
+
+
+## 2. Ejercicio Palíndromo
+
+**Fecha:** [09/06/2026]
+
+**Descripción:**
+El segundo ejercicio consiste en la verificación de palabras palíndromas aplicando estrictamente la propiedad de reversión conceptual que proveen las pilas.
+
+### Método implementado
+![alt text](image-2.png)
